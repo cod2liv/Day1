@@ -1,4 +1,4 @@
-# Day1
+# 45 Days of Data Science: Day1
 Basics of Python, OOPs and Problem-Solving using Python, Pandas, Numpy, Scipy
 
 Research Papers:
